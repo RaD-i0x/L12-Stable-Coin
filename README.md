@@ -1,4 +1,6 @@
-1. Relative Stabillity: Anchired or Pegged ---> $1.00
+## Stable Coin Properties
+1. Relative Stabillity: Anchored or Pegged ---> $1.00
+   
    (a) Chainlink Price Feed
    (b) Set a function to exchange ETH & BTC ---> $$$
 
